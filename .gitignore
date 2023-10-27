@@ -1,0 +1,11 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/TestCustomLibrary/bin/Debug/net7.0
+/CustomLibrary/obj
+/TestCustomLibrary/obj/Debug/net7.0
+/TestCustomLibrary/obj
+/.vs/CustomLibrary
+*/obj
+*/bin
